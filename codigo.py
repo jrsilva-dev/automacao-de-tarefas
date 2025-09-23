@@ -20,7 +20,7 @@ pyautogui.press("enter")
 
 time.sleep(2)
 
-tabela = pandas.read_csv("C:\\Users\Jr\\Documents\\VSCode\\python powerup\\gabarito\\produtos.csv")
+tabela = pandas.read_csv("produtos.csv")
 print(tabela)
 
 pyautogui.click(x=669, y=255)
@@ -71,3 +71,4 @@ for linha in tabela.index:
     pyautogui.press("enter")
 
     pyautogui.scroll(10000) 
+
