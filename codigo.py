@@ -13,7 +13,7 @@ pyautogui.press("enter")
 time.sleep(2)
 
 pyautogui.click(x=687, y=367)
-pyautogui.write("jrsilvablk@gmail.com")
+pyautogui.write("jrsilva.dev084@gmail.com")
 pyautogui.press("tab")
 pyautogui.write("12345678")
 pyautogui.press("enter")
@@ -69,4 +69,5 @@ for linha in tabela.index:
 
     pyautogui.press("tab")
     pyautogui.press("enter")
+
     pyautogui.scroll(10000) 
