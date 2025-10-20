@@ -81,8 +81,8 @@ cd automacao-de-tarefas</code></pre>
 
   <h2>Contato</h2>
     <ul>
-        <li>Autor: [Seu Nome ou Usuário]</li>
-        <li>Email: jrsilvablk@gmail.com (do código)</li>
+        <li>Autor: Jr. Silva</li>
+        <li>Email: jrsilva.dev084@gmail.com (do código)</li>
         <li>GitHub: <a href="https://github.com/jrsilva-dev">Meu Perfil</a></li>
     </ul>
     <p>Se tiver dúvidas ou precisar de ajustes, abra uma issue no repositório!</p>
