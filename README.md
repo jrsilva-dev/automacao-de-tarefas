@@ -51,7 +51,7 @@ cd automacao-de-tarefas</code></pre>
             <ul>
                 <li>Certifique-se de que o navegador não esteja em tela cheia e que a página esteja visível.</li>
                 <li>Rode o comando:
-                    <pre><code>python nome-do-script.py</code></pre>
+                    <pre><code>python codigo.py</code></pre>
                 </li>
                 <li>O script irá abrir o Chrome, fazer login e começar a cadastrar os produtos automaticamente.</li>
             </ul>
