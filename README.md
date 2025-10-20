@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Automação de Cadastro de Produtos</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; }
-        h1, h2 { color: #333; }
-        code { background-color: #f4f4f4; padding: 2px 4px; border-radius: 4px; }
-        pre { background-color: #f4f4f4; padding: 10px; border-radius: 4px; overflow-x: auto; }
-        ul, ol { margin-left: 20px; }
-    </style>
-</head>
 <body>
     <h1>Automação de Cadastro de Produtos</h1>
     <p>Este projeto é um script em Python que automatiza o processo de cadastro de produtos em um sistema web. Ele utiliza a biblioteca <code>pyautogui</code> para simular ações do usuário (como cliques e digitação) e <code>pandas</code> para ler dados de um arquivo CSV. O script abre o navegador Chrome, acessa um site específico, faz login e preenche um formulário com informações de produtos lidas do CSV.</p>
