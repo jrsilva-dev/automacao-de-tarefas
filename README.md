@@ -31,8 +31,8 @@
   <h2>Instalação e Como Usar</h2>
     <ol>
         <li><strong>Clone ou baixe o repositório</strong>:
-            <pre><code>git clone https://github.com/seu-usuario/nome-do-repo.git
-cd nome-do-repo</code></pre>
+            <pre><code>git clone https://github.com/jrsilva-dev/automacao-de-tarefas.git
+cd automacao-de-tarefas</code></pre>
         </li>
         <li><strong>Instale as dependências</strong>:
             <pre><code>pip install pyautogui pandas</code></pre>
